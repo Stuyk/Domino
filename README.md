@@ -1,3 +1,5 @@
+![](https://i.imgur.com/3sczFPW.png)
+
 # DominoBlockchain
 
 A blockchain transaction ledger for RAGE:MP servers. This takes a few pages from Bitcoin, Litecoin, etc.
