@@ -1,0 +1,8 @@
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\bin\Debug\netcoreapp2.0\Domino.deps.json
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\bin\Debug\netcoreapp2.0\Domino.dll
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\bin\Debug\netcoreapp2.0\Domino.pdb
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\obj\Debug\netcoreapp2.0\Domino.csproj.CoreCompileInputs.cache
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\obj\Debug\netcoreapp2.0\Domino.AssemblyInfoInputs.cache
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\obj\Debug\netcoreapp2.0\Domino.AssemblyInfo.cs
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\obj\Debug\netcoreapp2.0\Domino.dll
+D:\Programs\RAGEMP\server-files\bridge\resources\Domino\obj\Debug\netcoreapp2.0\Domino.pdb

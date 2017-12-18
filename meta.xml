@@ -1,0 +1,6 @@
+﻿<meta>
+  <info name="Domino" description="A private blockchain for your server's economy." author="Stuyk" version="1.0" type="script" />
+  <script src="bin/Debug/netcoreapp2.0/Domino.dll" type="server" lang="compiled" />
+  <assembly ref="EasyEncryption.dll" />
+  <assembly ref="Newtonsoft.Json.dll" />
+</meta>

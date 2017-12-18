@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EasyEncryption" Version="1.0.2" />
+    <PackageReference Include="gtanetwork.api" Version="0.3.0.10" />
+  </ItemGroup>
+
+</Project>
